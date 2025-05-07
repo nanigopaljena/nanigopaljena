@@ -1,4 +1,5 @@
-## Hi there 👋
+# 👋 Hi, I'm Nanigopal Jena
+### 🚀 Lead Software Engineer at Blue Yonder| 8+ Years in Java, Spring Boot, React and Kafka | Lifelong Learner
 
 <!--
 **nanigopaljena/nanigopaljena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
